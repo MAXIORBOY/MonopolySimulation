@@ -1,4 +1,7 @@
-# Monopoly Simulation is a heat map for the (classic) Monopoly game (...).
+# Monopoly Simulation is a heat map for the (classic) Monopoly game.
+
+## Method:
+The simulation was done, using the Monte Carlo method.
 
 ## Implementation:
 ```MonopolySimulation.__init__(self, turns=100, games=1000000)```
@@ -6,8 +9,8 @@
 * ```games``` - (int) a number of games in the simulation. Must be greater or equal to 1. Default = 1000000.
 
 ## Assumptions:
-* (...)
-* (...)
+* Financial aspect of the game is not included.
+* If the "virtual player" is send to the jail, he pays the fee at the beginning of the next turn.
 
 ## Sources:
 * Community chest cards: https://monopoly.fandom.com/wiki/Community_Chest
