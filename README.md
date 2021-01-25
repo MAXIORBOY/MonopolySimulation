@@ -27,4 +27,3 @@ The simulation was done, using the Monte Carlo method.
 
 ## Screenshot:
 ![MS screenshot](https://user-images.githubusercontent.com/71539614/99747573-1137b500-2adb-11eb-8a64-bf1b38e8e0f7.png)
-
